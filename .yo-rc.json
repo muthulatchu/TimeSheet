@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.minuscule.timesheet",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "TimeSheetApp",
+    "packageName": "com.minuscule.timesheet",
+    "packageFolder": "com/minuscule/timesheet",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yzc5NWE0ODdjYTNhOWNhMmFjMzUxYzBhNDRlYjQ5YzkxYzlkNGY3OTU1NmY1ODQyMTc1ODg4Mzg1NTc1MjA1Y2Y4OGVkYjk0NjVjZDA0ZDcyMTBkOTE1MDc5ODEyNzU3NzdjYmRmZjc3N2ZhZjczNGYwODM0NzBmZDJmZDNkYzE=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "hi",
+      "id",
+      "ta",
+      "te"
+    ]
+  }
+}
